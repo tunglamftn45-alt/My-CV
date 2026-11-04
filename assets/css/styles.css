@@ -1,13 +1,13 @@
 :root {
-  --color-primary: #1eaefb;      
-  --color-primary-dark: #1d4ed8;
-  --color-accent: #7c3aed;       
-  --color-text: #1e293b;         
-  --color-text-soft: #64748b;    
-  --color-bg: #f7f7f7;           
-  --color-surface: #f8fafc;      
-  --color-border: #76a5e3;       
-  --color-chip: #a4c5f0;         
+  --color-primary: #224eea;      
+  --color-primary-dark: #383232;
+  --color-accent: #541db3;       
+  --color-text: #0d0e0e;         
+  --color-text-soft: #101011;    
+  --color-bg: #f6f6f6;           
+  --color-surface: #f4f8f3fd;      
+  --color-border: #cbdef2;       
+  --color-chip: #f0f0f4;         
 
   
   --font-base: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
